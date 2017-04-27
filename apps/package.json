@@ -1,0 +1,23 @@
+{
+  "name": "apps",
+  "version": "0.0.1",
+  "description": "AlexaGoogleBridge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toxicated101/AlexaGoogleBridge.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Google"
+  ],
+  "author": "Matt Wheatley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toxicated101/AlexaGoogleBridge/issues"
+  }
+}
